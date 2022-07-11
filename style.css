@@ -697,6 +697,10 @@ a {
 p {
     font-size: 16px;
 }
+.textIn {
+    color: white!important;
+    filter: brightness(1.8);
+}
 .newOrga h3 {
     color: grey!important;
     text-transform: none;

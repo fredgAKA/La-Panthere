@@ -93,6 +93,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
+    filter: contrast(0);
 }
 
 .b-parallax {
@@ -829,7 +830,9 @@ justify-content: center;
 .ltc-white {
     color: #FFFFFF!important;
 }
-
+.bright {
+    filter: brightness(1.8);
+}
 .ltc-white:hover {
     color: #cccccc!important;
 }

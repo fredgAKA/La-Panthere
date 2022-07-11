@@ -697,7 +697,11 @@ a {
 p {
     font-size: 16px;
 }
-.tc-whiteNew h1, p{
+.tc-whiteNew h1{
+    color: white!important;
+    filter: brightness(1.8);
+}
+.tc-whiteNew p{
     color: white!important;
     filter: brightness(1.8);
 }

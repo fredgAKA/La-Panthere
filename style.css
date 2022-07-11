@@ -697,7 +697,7 @@ a {
 p {
     font-size: 16px;
 }
-.tc-whiteNew {
+.tc-whiteNew h1, p{
     color: white!important;
     filter: brightness(1.8);
 }

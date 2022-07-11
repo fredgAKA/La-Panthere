@@ -694,9 +694,13 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
-
+.newOrga h3 {
+    color: grey!important;
+    text-transform: none;
+    font-size: 18px;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;

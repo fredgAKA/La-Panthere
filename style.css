@@ -669,7 +669,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -702,7 +702,7 @@ p {
     filter: brightness(1.8);
 }
 .newOrga h3 {
-    color: grey!important;
+    color: black!important;
     text-transform: none;
     font-size: 18px;
 }
